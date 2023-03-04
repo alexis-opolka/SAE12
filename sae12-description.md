@@ -159,10 +159,10 @@
     <td> La S.A.E. alimente les <span style="font-weight: bold">apprentissages critiques</span> suivants: </td>
     <td>
       <ul>
-        <li>AC0113: Configurer les fonctions de base du réseau local.</li>
-        <li>AC0114: Maîtriser les rôles et les principes fondamentaux des systèmes d’exploitation afin d’interagir avec ceux-ci pour la configuration et administration des réseaux et services fournis.</li>
+        <li>AC0113: Configurer les fonctions de base du réseau et des systèmes usels.</li>
+        <li>AC0114: Maîtriser les rôles et les principes fondamentaux des systèmes d’exploitation.</li>
         <li>AC0115: Identifier les dysfonctionnements du réseau local.</li>
-        <li>AC0116 : Installer un poste client.</li>
+        <li>AC0116: installer un système d’exploitation, linux et windows, par différents moyens.</li>
         <li>AC0215: Communiquer avec un client ou un collaborateur.</li>
         <li>AC0316: S’intégrer dans un environnement propice au développement et au travail collaboratif</li>
         <li>AC0311: Utiliser un système informatique et ses outils.</li>
