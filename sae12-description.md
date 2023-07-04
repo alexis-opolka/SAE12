@@ -182,7 +182,6 @@ Le document suivant est accessible sur GitHub:
   - Logiciel proposé pour écrire en MarKDown : [Visual Studio Code](https://code.visualstudio.com/)
   - Git Hub for education pour le rendu en MarkDown [Cliquez ici!](https://classroom.github.com/a/FJ1hseZV)
 
-
 Instructions aux étudiants avant et pendant la SAE:
 
 - Lire la documentation proposée.
